@@ -1,0 +1,61 @@
+{
+  "name": "kevot-js",
+  "padlock": "qQ5zfEySflziUNANdVfJNA==!81uaxi4S8EnkcDgoBS8jHdhbXuMbdmO20nvbZ0uRn/SGzoicLcdNCexmaBBv6HyB",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "74f2df31-0790-4ca5-ac76-b7ec3f02df77",
+      "subscriptionId": "ac582ccf-5ece-4649-a4e2-dc2b013180d6",
+      "resourceGroup": "KevotJS",
+      "serviceName": "kevot-js",
+      "type": "abs",
+      "name": "kevot-js",
+      "id": "1"
+    },
+    {
+      "connectionString": "3SC9VpF3bGI1c/x19W0JWg==!Czo7kAZYo69tGD4x2rmhMtSoLKrmcxedpDqMaA6uoS5aJrQx5ZXwpnzcpA4H+QjJRIJjUgNydQLeymZmmZbESSblUdErxW2yGZtU4LwjyQTNBIedCD0UwnksLfjkO42Kk2IWc0zUPWVyIFNOekziavmWmO5TCHdKljxgKALskY9o07tMWUj84tVhMrp8uhiVlXHbmK0ueEsRAl/cRJfIOg==",
+      "tenantId": "74f2df31-0790-4ca5-ac76-b7ec3f02df77",
+      "subscriptionId": "ac582ccf-5ece-4649-a4e2-dc2b013180d6",
+      "resourceGroup": "KevotJS",
+      "serviceName": "kevotjsb146",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "7843e77e-9c57-4411-b533-d2ee0630a5ce",
+      "appPassword": "L1cJIflvG7h93JLMO0/Q1A==!3DqCShZX65TT4lToEGdi87nlWSurl9dYC0luMFF4IlQ=",
+      "endpoint": "https://kevot-js.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "hzZK7pR0efuFRRDSmxx7pA==!k4MCRjoPgLFiUULTLul79EQXo1T/f5XY/1B+BX99IJELKXWjQmTL3zZ61OKLJfzj",
+      "applicationId": "687d8bdb-b79e-4dd0-8a57-fa07fe802a42",
+      "apiKeys": {},
+      "tenantId": "74f2df31-0790-4ca5-ac76-b7ec3f02df77",
+      "subscriptionId": "ac582ccf-5ece-4649-a4e2-dc2b013180d6",
+      "resourceGroup": "KevotJS",
+      "serviceName": "kevot-jshe6mcz",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "583b673d-e330-4ca7-b990-52d7e64db3dc",
+      "authoringKey": "3I1HfOCBcSL+R0OTgwE52A==!PrBbqFaw6KvpHqjDJ55jGFs5FdUtcD9fUTP0lvP310j4UBLEASH240JsKZS92X3D",
+      "version": "0.1",
+      "region": "australiaeast",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
